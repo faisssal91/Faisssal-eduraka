@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Addedd the file1.txt in the master branch
+Added file1.txt in feature branch
+>>>>>>> feature
