@@ -2,3 +2,7 @@
 Addedd the file1.txt in the master branch
 Added file1.txt in feature branch
 >>>>>>> feature
+hwjhw
+hswjdwgd
+dhgwjdbwi
+faisal is very good
